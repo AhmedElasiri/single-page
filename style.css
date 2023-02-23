@@ -1,0 +1,63 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color:#360836;
+    padding: 10px;
+    
+}
+
+.navegation{
+    margin: 10px;
+    text-align: center;
+
+}
+
+.navegation a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 1.5em;
+}
+
+.navegation a:hover{
+    color: #a725a7;
+}
+
+  /* web folk */
+
+.main{
+    background: url(images/cover.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    color: white;
+    text-align: center;
+    padding: 200px;
+}
+
+ 
+
+.content div{
+    margin-bottom: 200px;
+
+}
+
+
+.part1 h1{
+    font-size: 60px;
+    margin-bottom: 15px;
+    
+}
+
+.part1 h2{
+    letter-spacing: 8px;
+    font-size: 25px;
+}
